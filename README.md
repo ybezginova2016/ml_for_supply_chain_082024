@@ -29,9 +29,8 @@ This course introduces essential programming concepts, Python practices, and com
   - LearnQuest Instructor
   - 8 Courses | 14,271 learners | 4.5 ⭐ rating
 
-## Repository Contents
-- **Code Samples:** Python scripts and Jupyter notebooks.
-- **Project Work:** Final project files and documentation.
+## Final Project Assignment: "Filling Demand while Optimizing Cost using PULP Linear Programming|
+Grade Achieved: **92.50%**
 
 ### **Feedback**
 Your comments and questions are welcome at `ybezginova2021@gmail.com` and on Telegram [@yu_bezginova](https://t.me/ybezginova).
